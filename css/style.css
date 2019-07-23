@@ -21,7 +21,7 @@ section{
 nav{
 	width: 1000%;
 	height: 70px;
-	background-color: wheat;
+	background-color: #feb236;
 	padding: 0px, 100px, 50px, 0px;
 
 }
@@ -57,6 +57,21 @@ h1{
 	font-size: 50px;
 }
 
+h2{
+	font-size: 35px;
+}
+
+h3{
+	font-size: 20px;	
+	
+}
+
+
+
+
+
+
+
 nav a, nav h3{
 	float: left;
 	margin: 0px;
@@ -68,6 +83,12 @@ nav a, nav h3{
 
 nav a:hover{
 	text-decoration: underline; /* Hover styles to let people know they can click it */
+}
+
+
+#busSize{
+	width: 500px;
+
 }
 
 
